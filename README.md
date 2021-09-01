@@ -1,4 +1,5 @@
-![secksbot](assets/hi-im-secks.png)
+<img src="assets/hi-im-secks.png" alt="itsumi2" align="middle" width=200 height=200/>
+
 # SECKS BOT OFFICIAL
 ---
 ## SECKS BOT OPEN SOURCE
